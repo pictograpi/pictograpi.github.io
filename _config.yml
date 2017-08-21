@@ -1,0 +1,38 @@
+# Site settings
+title: The Pictograpi Universe
+description: 'The only place for pictographs'
+url: 'https://pictograpi.github.io'
+baseurl: ''
+google_analytics: 'UA-1197002-14'
+disqus_shortname: 'pictograpi'
+
+author:
+  name: 'Pictograpi'
+  email: admin@pictograpi.com
+  twitter_username: pictograpi
+  facebook_username: pictograpi
+  github_username:  pictograpi
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
