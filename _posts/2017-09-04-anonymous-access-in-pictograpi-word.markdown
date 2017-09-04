@@ -2,7 +2,7 @@
 title:  "Anonymous access in PictograpiWord"
 date:   2017-09-04 20:37:00
 categories: [news, pictograpiword]
-tags: [ARASAAC, pictograph, pictograpiword,] development
+tags: [ARASAAC, pictograph, pictograpiword, development]
 ---
 We have modified [PictograpiWord](https://word.pictograpi.com) to make **all of the features available for anonymous users**. We think this is going to make using the tool even easier and we hope it will help to spread its usage among more users.
 
