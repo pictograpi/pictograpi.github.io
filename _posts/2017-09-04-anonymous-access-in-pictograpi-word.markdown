@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to the Pictograpi Universe"
+title:  "Anonymous access in PictograpiWord"
 date:   2017-09-04 20:37:00
 categories: [news, pictograpisearch]
 tags: [ARASAAC, pictograph, pictograpi universe]
