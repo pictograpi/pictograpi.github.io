@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to the Pictograpi Universe"
-date:   2017-05-18 15:00:00
+date:   2017-09-04 20:37:00
 categories: [news, pictograpisearch]
 tags: [ARASAAC, pictograph, pictograpi universe]
 ---
